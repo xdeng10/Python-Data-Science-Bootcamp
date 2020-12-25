@@ -1,10 +1,11 @@
-# Python-Data-Science-Bootcamp
+# Python-Data-Science-Machine-Learning-Bootcamp
 
-Data analysis and data visualization using Python.
-Capstone project of Jose Portilla's Python for Data Science and Machine Learning Bootcamp (Udemy)
+Data analysis, data visualization and machine learning using Python.
+A few projects I worked on while taking Jose Portilla's Python for Data Science and Machine Learning Bootcamp (Udemy)
 
 Data analysis using NumPy and Pandas
 Data visualization using Matplotlib, Seaborn, Plotly and Cufflinks.
+Machine learning using Scikit-learn
 
 Data analysis:
 - 911 call dataset (from Kaggle)
