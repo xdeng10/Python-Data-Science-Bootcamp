@@ -17,5 +17,7 @@ Machine learning:
 - K Nearest Neighbors (KNN) to analyze an anonymized data set.
 - Decision trees and Random forests to analyze a loan data set (including some data cleaning)
 - Support vector machine (SVM) to analyze the built-in Iris data set of Seaborn
+- K means clustering to group and classify universities as either private or public 
+- Natural Language Processing (NLP) to analyze and classify text from Yelp reviews into the correct rating (stars 1 to 5)
 
 
